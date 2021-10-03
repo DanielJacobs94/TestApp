@@ -8,6 +8,8 @@ namespace ConsoleAppDesu
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Anything");
+            Console.WriteLine("Something");
+            Console.WriteLine("One more thing");
         }
     }
 }
