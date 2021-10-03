@@ -8,5 +8,6 @@ namespace ConsoleAppDesu.TestApp
     {
 
         public string NameOfThing { get; set; }
+        public double ValueThing { get; set; }
     }
 }
