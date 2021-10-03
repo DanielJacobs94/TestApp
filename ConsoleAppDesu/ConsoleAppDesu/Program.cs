@@ -9,6 +9,7 @@ namespace ConsoleAppDesu
             Console.WriteLine("Hello World!");
             Console.WriteLine("Net so");
             Console.WriteLine("Anything");
+            Console.WriteLine("Anything2");
         }
     }
 }
