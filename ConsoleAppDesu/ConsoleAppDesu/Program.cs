@@ -10,6 +10,7 @@ namespace ConsoleAppDesu
             Console.WriteLine("Net so");
             Console.WriteLine("Anything");
             Console.WriteLine("Anything2");
+            Console.WriteLine("Awe");
         }
     }
 }
