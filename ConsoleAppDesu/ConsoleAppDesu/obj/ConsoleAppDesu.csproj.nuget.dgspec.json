@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Niel\\Documents\\Test\\TestApp\\ConsoleAppDesu\\ConsoleAppDesu\\ConsoleAppDesu.csproj": {}
+    "C:\\Users\\Julio\\Documents\\GitHub\\TestApp\\ConsoleAppDesu\\ConsoleAppDesu\\ConsoleAppDesu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Niel\\Documents\\Test\\TestApp\\ConsoleAppDesu\\ConsoleAppDesu\\ConsoleAppDesu.csproj": {
+    "C:\\Users\\Julio\\Documents\\GitHub\\TestApp\\ConsoleAppDesu\\ConsoleAppDesu\\ConsoleAppDesu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Niel\\Documents\\Test\\TestApp\\ConsoleAppDesu\\ConsoleAppDesu\\ConsoleAppDesu.csproj",
+        "projectUniqueName": "C:\\Users\\Julio\\Documents\\GitHub\\TestApp\\ConsoleAppDesu\\ConsoleAppDesu\\ConsoleAppDesu.csproj",
         "projectName": "ConsoleAppDesu",
-        "projectPath": "C:\\Users\\Niel\\Documents\\Test\\TestApp\\ConsoleAppDesu\\ConsoleAppDesu\\ConsoleAppDesu.csproj",
-        "packagesPath": "C:\\Users\\Niel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Niel\\Documents\\Test\\TestApp\\ConsoleAppDesu\\ConsoleAppDesu\\obj\\",
+        "projectPath": "C:\\Users\\Julio\\Documents\\GitHub\\TestApp\\ConsoleAppDesu\\ConsoleAppDesu\\ConsoleAppDesu.csproj",
+        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Julio\\Documents\\GitHub\\TestApp\\ConsoleAppDesu\\ConsoleAppDesu\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Niel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
